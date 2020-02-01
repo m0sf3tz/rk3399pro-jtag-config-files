@@ -1,0 +1,2 @@
+#uboot command to enable JTAG pins
+mw.l 0xff77e024 0xffff05A5
